@@ -24,7 +24,7 @@ Each worksheet in this example has around 3000 rows of data, multiply that by th
 
 While we currently live in 2021 and today's cutting edge tech doesn't even blink at these numbers, it is always prudent to write the most efficient and legible code possible.
 
-The images on the right show the output of a macro that refactors our original idea with a little more ~pizazz~.
+The images on the right show the output of a macro that refactors our original idea with a little more pizazz.
 By utilizing Arrays in VBA, we can use a single pass through all of our ~3000 rows to "append" information to them by an increasing index for each ticker.
 At the end of this pass, we can output the information we've stored with a short loop, cutting out ~0.5seconds of processing time.
 
