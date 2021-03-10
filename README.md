@@ -9,7 +9,7 @@ Below are images of two very similar programs processing data from two worksheet
 These worksheets contain the daily share information for different companies during the year the worksheet is named after: 
   Ticker, Date, Open, High, Low, Close, Adj Close, and Volume
 
-For the sake of this project, we are focusing on the amount that each company's stock price changed from year start to year end, as well as the total volume of shares that changed hands during that time period.
+For the sake of this project, we are focusing on the amount that each company's stock price changed from the first trading day in a year to the last, as well as the total volume of shares that changed hands during that time period.
 
 
 ![gfx1](https://user-images.githubusercontent.com/14188580/110701270-95ab6200-81b6-11eb-9aba-f26cd1628ce1.png)
